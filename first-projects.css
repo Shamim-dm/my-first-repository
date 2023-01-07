@@ -1,0 +1,342 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+
+}
+
+.nav-ber{
+    width: 100%;
+    position: fixed;
+    background-color: black;
+    color: white;
+    
+    font-family: Work Sans;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: right;
+    
+
+}
+
+
+
+
+
+.nav-items{
+    padding: 18px 0;
+
+
+}
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+    padding: 18px 15px;
+
+
+}
+
+
+
+.nav-link:hover{
+    background-color: white;
+    color: black;
+    
+
+}
+
+    
+
+
+.header-img{
+    
+    background-image: url('./img/banner/banner3.png');
+    height: 1000px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+
+}
+
+.header-section{
+    display: inline-block;
+    width: 350px;
+    margin-left: 1300px;
+    padding-top: 500px;
+    margin-right: 20px;
+
+}
+
+.header-headline{
+    font-family: Work Sans;
+    font-size: 3rem;
+    color: white;
+    text-align: right;
+   
+
+}
+
+.header-articale{
+    font-family: Work Sans;
+    font-family: 1.2rem;
+    color: white;
+    text-align: right;
+    margin-bottom: 25px;
+
+}
+
+.contact-button{
+    
+    padding: 5px 7px;
+    background-color: orangered;
+   border-radius: 5px;
+   border: 1px solid orangered;
+   color: white;
+   float: right;
+   
+   
+
+}
+
+.contact-button:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+
+}
+
+
+
+
+.about-content{
+    padding-top: 50px;
+    width: 1000px;
+    margin-inline: auto;
+   
+    
+
+
+
+}
+
+.img-content{
+    display: inline-block;
+    width: 500px;
+
+
+}
+
+.img-person{
+
+    height: 100%;
+    width: 100%;
+
+}
+
+
+
+
+
+.about-articale{
+    display: inline-block;
+    width: 495px;
+    vertical-align: top;
+    padding-top: 200px;
+    padding-left: 50px;
+    font-family: Work Sans;
+
+}
+
+.about-heading{
+    font-size: 2.9rem;
+    padding-bottom: 20px;
+    font-family: Work Sans;
+   
+
+
+
+}
+.paragrap{
+    padding-bottom: 15px;
+    font-size: 1rem;
+    line-height: 20px;
+
+}
+
+
+.fa-square-check{
+    line-height: 35px;
+    color: blue;
+    padding-right: 5px;
+
+}
+
+
+.my-plan{
+    text-align: center;
+    font-size: 2.7rem;
+    font-family: Work Sans;
+    margin-bottom: 30px;
+    margin-top: 100px;
+
+}
+
+.icon-section{
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-inline: auto;
+    margin-bottom: 30px;
+    line-height: 30px;
+
+}
+.flexbox{
+    text-align: center;
+
+}
+.flex-icon{
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.banner{
+    background-image: 
+    linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),
+    url('./img/watch.png');
+    
+    height: 300px;
+    width: 1020px;
+    margin-inline: auto;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-top: 110px;
+    margin-bottom: 40px;
+    
+
+}
+
+.banner-text{
+    font-family: Work Sans;
+    font-size: 1.7rem;
+    color: white;
+    line-height: 50px;
+   
+    
+
+
+}
+.call-now-button{
+    padding: 8px 20px;
+    border-radius: 10px;
+
+}
+
+.call-now-button:hover{
+    background-color: black;
+    color: white;
+
+
+}
+
+
+.section-footer{
+  
+   width: 100%;
+    background-color: black;
+    height: 400px;
+    color: white;
+    padding: 20px 20px;
+
+
+}
+
+.footer-part{
+    width: 1000px;
+    margin-inline: auto;
+
+}
+
+
+
+.footer-articale{
+    display: inline-block;
+    width: 795px;
+    padding-top: 50px;
+
+
+
+
+}
+
+
+
+
+.future{
+    font-size: 2rem;
+    padding-bottom: 20px;
+
+}
+
+.footer-description{
+    font-family: Work Sans;
+    line-height: 20px;
+
+}
+
+.footer-img:hover{
+    background-color: black;
+    color: black;
+   
+
+}
+
+
+
+
+
+
+.footer-form{
+    display: inline-block;
+    width: 200px;
+    line-height: 30px;
+    vertical-align: top;
+    padding-top: 100px;
+    
+
+}
+
+.subscribe{
+    font-size: 2.5rem;
+    line-height: 60px;
+
+
+}
+.footer-email{
+    padding: 7px 5px;
+    border-radius: 5px;
+
+}
+
+.subscribe-button{
+    padding: 10px 10px;
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+.subscribe-button:hover{
+    background-color: red;
+    color: white;
+
+}
