@@ -249,6 +249,134 @@
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-page{
+	width: 97%;
+	margin-inline: auto;
+	margin-top: 5px;
+	
+	
+}
+
+
+
+
+.section-part-2{
+	display: inline-block;
+	width: 100%;
+	padding-top: 10px;
+	height: 800px;
+	
+	
+	
+}
+
+.card-1{
+	display: inline-block;
+	width: 33.33%;
+	padding-left: -10px;
+	text-align: center;
+	height: 500px;
+	line-height: 45px;
+	vertical-align: top;
+	
+	
+}
+
+.card-2{
+	display: inline-block;
+	width: 33.33%;
+	text-align: center;
+	
+	height: 500px;
+	vertical-align: top;
+	
+	
+	
+}
+
+.card-3{
+	display: inline-block;
+	width: 33.33%;
+	text-align: center;
+	
+	height: 500px;
+	vertical-align: top;
+	
+	
+}
+
+.card-title{
+	font-size: 1.4rem;
+	padding: 15px;
+	
+	
+}
+
+.black{
+	font-size: 7rem;
+	padding-bottom: 25px;
+	
+	
+}
+
+.card-shadow{
+	width: 97%;
+	margin-inline: auto;
+	
+	height: 500px;
+	border: 1px solid white;
+	border-radius: 5px 5px;
+	box-shadow: 1px 5px 10px #000;
+		
+	
+	
+}
+
+.color{
+	font-size: 1.7rem;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 15px;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .section-footer{
   
    width: 100%;
